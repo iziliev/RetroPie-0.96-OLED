@@ -48,7 +48,7 @@ Step 1. Scrap metadata ( https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper
 Step 2. Install Retropie-OLED Script
 <pre><code>
 cd ~
-git clone https://github.com/rferrari81/RetroPie-OLED.git
+git clone https://github.com/iziliev/RetroPie-0.96-OLED.git
 cd ./RetroPie-OLED/
 chmod 755 install.sh
 ./install.sh
